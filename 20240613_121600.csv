@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+suit1,Chrome 126.0.0.0,,,13-06-2024 12:16:10,13-06-2024 12:17:14,1m - 3.924s,PASSED
+,,,,,,,
+Test Cases/college/test1,Chrome 126.0.0.0,,,13-06-2024 12:16:10,13-06-2024 12:16:10,0.221s,PASSED
+return null,Chrome 126.0.0.0,,,13-06-2024 12:16:10,13-06-2024 12:16:10,0.002s,PASSED
+,,,,,,,
+Test Cases/college/test2,Chrome 126.0.0.0,,,13-06-2024 12:16:10,13-06-2024 12:17:12,1m - 2.337s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,13-06-2024 12:16:10,13-06-2024 12:16:13,2.774s,PASSED
+"navigateToUrl(""https://www.amazon.in/s?bbn=81107433031&rh=n%3A81107433031%2Cp_85%3A10440599031&_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pd_rd_r=56da65db-e18c-499d-bc34-00e98b288036&pd_rd_w=UfiZk&pd_rd_wg=G2NmF&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=ASRXZKSBB9SGFNFN4A96&ref=pd_hp_d_atf_unk"")",Chrome 126.0.0.0,,,13-06-2024 12:16:13,13-06-2024 12:16:40,26.576s,PASSED
+"click(findTestObject(""Object Repository/amazon/Page_Amazon.in/a_Best Sellers""))",Chrome 126.0.0.0,,,13-06-2024 12:16:40,13-06-2024 12:16:47,7.551s,PASSED
+"click(findTestObject(""Object Repository/amazon/Page_Amazon.in Bestsellers The most popular_e30680/a_Todays Deals""))",Chrome 126.0.0.0,,,13-06-2024 12:16:47,13-06-2024 12:16:50,2.855s,PASSED
+"click(findTestObject(""Object Repository/amazon/Page_Amazon.in - Deals/button_Large Appliances""))",Chrome 126.0.0.0,,,13-06-2024 12:16:50,13-06-2024 12:16:51,0.896s,PASSED
+"click(findTestObject(""Object Repository/amazon/Page_Amazon.in - Deals/button_Home  Kitchen""))",Chrome 126.0.0.0,,,13-06-2024 12:16:51,13-06-2024 12:16:53,2.552s,PASSED
+"click(findTestObject(""Object Repository/amazon/Page_Amazon.in - Deals/button_Electronics""))",Chrome 126.0.0.0,,,13-06-2024 12:16:53,13-06-2024 12:16:55,1.214s,PASSED
+"click(findTestObject(""Object Repository/amazon/Page_Amazon.in - Deals/button_Mobiles""))",Chrome 126.0.0.0,,,13-06-2024 12:16:55,13-06-2024 12:16:56,1.645s,PASSED
+"click(findTestObject(""Object Repository/amazon/Page_Amazon.in - Deals/button_Lightning Deals""))",Chrome 126.0.0.0,,,13-06-2024 12:16:56,13-06-2024 12:16:57,0.937s,PASSED
+"click(findTestObject(""Object Repository/amazon/Page_Amazon.in - Deals/span_LiMETRO STEEL Stainless Steel Foldable_63de00""))",Chrome 126.0.0.0,,,13-06-2024 12:16:57,13-06-2024 12:17:07,10.023s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,13-06-2024 12:17:07,13-06-2024 12:17:12,5.165s,PASSED
